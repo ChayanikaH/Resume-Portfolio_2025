@@ -26,3 +26,10 @@ This repository hosts the complete projects featured in my updated professional 
 **📈 Capstone: Marketing Mix Modeling & KPI Analysis**  
 - Modeled ROI of marketing channels for an e-commerce brand using Python  
 - Delivered budget recommendations via KPI-driven analysis and comparative model evaluation
+
+  ## 🛠️** Tools Used**
+  - SQL
+  - Python (pandas, scikit-learn)
+  - Logistic Regression, Random Forest, AUC
+  - Data cleaning, EDA, modeling
+  - GitHub for version control
